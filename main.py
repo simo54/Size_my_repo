@@ -1,9 +1,9 @@
 import os
 import time
+
 from openpyxl import Workbook, load_workbook
 from pathlib import Path
 from converter import format_bytes
-from loader import printProgressBar
 
 workbook = Workbook()
 page = workbook.active
