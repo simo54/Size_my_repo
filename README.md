@@ -8,7 +8,7 @@ A xlsx file is generated once the work is done.
 
 You _must_ specify a path once launched, if there are no folders to skip the script will get every single of the whole repo (including subfolders).
 
-To specify the folders to avoid you can declare them like the following (after answering **yes** to the input question):
+To specify the folders to avoid you can declare their name without symbols like the following (after answering **yes** to the input question):
 
 ```
 folder anotherfolder subfolder
