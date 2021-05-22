@@ -4,6 +4,10 @@ Launching this script can help you getting a list of all elements of the target 
 
 A xlsx file is generated once the work is done.
 
+## How to run it
+
+Download this repo and execute the main.py file.
+
 ## Custom
 
 You _must_ specify a path once launched, if there are no folders to skip the script will get every single of the whole repo (including subfolders).
