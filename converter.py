@@ -1,4 +1,4 @@
-# CREDITS https://stackoverflow.com/questions/12523586/python-format-size-application-converting-b-to-kb-mb-gb-tb
+# CREDITS <Pietro Battiston> https://stackoverflow.com/questions/12523586/python-format-size-application-converting-b-to-kb-mb-gb-tb
 
 def format_bytes(size):
     # 2**10 = 1024
